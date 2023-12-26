@@ -56,4 +56,12 @@ data/
     ├── 20
 ```
 
+### Training
+
+```
+sh runners/ravdess.sh
+```
+
+
+
 The Entire Code is based on Mammoth Framework (https://github.com/aimagelab/mammoth). All the copyright goes to Mammoth Framework.
